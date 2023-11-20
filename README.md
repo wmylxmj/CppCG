@@ -6,4 +6,4 @@ Computer Graphics Using Cpp
 - OpenMP
 
 ## Demo 光线追踪 直接光照（点光源）
-![](demo/test=.png)
+![](demo/test.png)
