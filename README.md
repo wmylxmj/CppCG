@@ -5,5 +5,5 @@ Computer Graphics Using Cpp
 - OpenBlas
 - OpenMP
 
-## Demo 直接光照（点光源）
+## Demo 光线追踪 直接光照（点光源）
 ![](demo/test.png)
